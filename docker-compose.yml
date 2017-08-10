@@ -1,0 +1,17 @@
+version: '2'
+services:
+
+  budget:
+    hostname: budget
+    container_name: BUDGET
+    build:
+      context: .
+    image: budget
+    working_dir: /root/BUDGET
+    volumes:
+      - /root/IONIC/BUDGET-code:/root/BUDGET
+    #command: /bin/bash -c "while true; do sleep 1000; done"
+    command: /bin/bash -c "source /root/BUDGET/BUDGET-init.sh"
+    ports:
+      - "127.0.0.1:8100:8100"
+

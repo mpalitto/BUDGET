@@ -1,0 +1,1108 @@
+[2K[G[INFO] Starting app-scripts server: --lab --l --port 8100 --p 8100
+       --livereload-port 35729 --r 35729 --address 0.0.0.0 - Ctrl+C to cancel
+[20:24:41]  watch started ... 
+[20:24:41]  build dev started ... 
+[20:24:41]  clean started ... 
+[20:24:41]  clean finished in 3 ms 
+[20:24:41]  copy started ... 
+[20:24:41]  transpile started ... 
+[20:24:43]  transpile finished in 2.71 s 
+[20:24:43]  preprocess started ... 
+[20:24:43]  deeplinks started ... 
+[20:24:43]  deeplinks finished in 56 ms 
+[20:24:43]  preprocess finished in 58 ms 
+[20:24:43]  webpack started ... 
+[20:24:43]  copy finished in 2.96 s 
+[20:24:52]  webpack finished in 8.31 s 
+[20:24:52]  sass started ... 
+[20:24:53]  sass finished in 1.23 s 
+[20:24:53]  postprocess started ... 
+[20:24:53]  postprocess finished in 5 ms 
+[20:24:53]  lint started ... 
+[20:24:53]  build dev finished in 12.36 s 
+[20:24:53]  watch ready in 12.45 s 
+[20:24:53]  dev server running: http://localhost:8100/ 
+
+[2K[G[INFO] Development server running
+       Local: http://localhost:8100
+       External: http://172.21.0.2:8100
+[20:24:56]  lint finished in 3.08 s 
+[20:36:41]  build started ... 
+[20:36:41]  template update started ... 
+[20:36:41]  template update finished in 3 ms 
+[20:36:41]  deeplinks update started ... 
+[20:36:41]  deeplinks update finished in 83 ms 
+[20:36:41]  build finished in 98 ms 
+
+[20:37:54]  build started ... 
+[20:37:54]  template update started ... 
+[20:37:54]  template update finished in 1 ms 
+[20:37:54]  deeplinks update started ... 
+[20:37:54]  deeplinks update finished in 61 ms 
+[20:37:54]  build finished in 71 ms 
+
+[20:42:57]  build started ... 
+[20:42:57]  template update started ... 
+[20:42:57]  template update finished in 3 ms 
+[20:42:57]  deeplinks update started ... 
+[20:42:57]  deeplinks update finished in 54 ms 
+[20:42:57]  build finished in 69 ms 
+
+[20:54:59]  build started ... 
+[20:54:59]  template update started ... 
+[20:54:59]  template update finished in 2 ms 
+[20:54:59]  deeplinks update started ... 
+[20:54:59]  deeplinks update finished in 59 ms 
+[20:54:59]  build finished in 63 ms 
+
+[20:56:09]  build started ... 
+[20:56:09]  template update started ... 
+[20:56:09]  template update finished in 2 ms 
+[20:56:09]  deeplinks update started ... 
+[20:56:09]  deeplinks update finished in 52 ms 
+[20:56:09]  build finished in 60 ms 
+
+[20:58:04]  build started ... 
+[20:58:04]  template update started ... 
+[20:58:04]  template update finished in 3 ms 
+[20:58:04]  deeplinks update started ... 
+[20:58:04]  deeplinks update finished in 46 ms 
+[20:58:04]  build finished in 51 ms 
+
+[20:58:31]  build started ... 
+[20:58:31]  template update started ... 
+[20:58:31]  template update finished in 1 ms 
+[20:58:31]  deeplinks update started ... 
+[20:58:31]  deeplinks update finished in 52 ms 
+[20:58:31]  build finished in 54 ms 
+
+[20:59:26]  build started ... 
+[20:59:26]  template update started ... 
+[20:59:26]  template update finished in 1 ms 
+[20:59:26]  deeplinks update started ... 
+[20:59:26]  deeplinks update finished in 56 ms 
+[20:59:26]  build finished in 58 ms 
+
+[20:59:51]  build started ... 
+[20:59:51]  template update started ... 
+[20:59:51]  template update finished in 1 ms 
+[20:59:51]  deeplinks update started ... 
+[20:59:51]  deeplinks update finished in 45 ms 
+[20:59:51]  build finished in 49 ms 
+
+[21:19:20]  build started ... 
+[21:19:20]  template update started ... 
+[21:19:20]  template update finished in 1 ms 
+[21:19:20]  deeplinks update started ... 
+[21:19:20]  deeplinks update finished in 46 ms 
+[21:19:20]  build finished in 48 ms 
+
+[21:28:02]  build started ... 
+[21:28:02]  transpile update started ... 
+            Unexpected token. A constructor, method, accessor, or property was expected. 
+
+[2m      L14:  [22m  [41mt[49m[41mh[49m[41mi[49m[41ms[49m.selectOptions = {
+[2m      L15:  [22m    title: '',
+
+            ',' expected. 
+
+[2m      L35:  [22m  constructor(public [41mn[49m[41ma[49m[41mv[49m[41mC[49m[41mt[49m[41mr[49m[41ml[49m: NavController, public navParams: NavParams, private auth: AuthService) { this.
+
+            ',' expected. 
+
+[2m      L35:  [22m  constructor(public navCtrl[41m:[49m NavController, public navParams: NavParams, private auth: AuthService) { this.
+
+            ',' expected. 
+
+[2m      L35:  [22m  constructor(public navCtrl: NavController, public [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m: NavParams, private auth: AuthService) { this.
+
+            ',' expected. 
+
+[2m      L35:  [22mtructor(public navCtrl: NavController, public navParams[41m:[49m NavParams, private auth: AuthService) { this.user =
+
+            ',' expected. 
+
+[2m      L35:  [22mrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { this.user = navParams.get('emai
+
+            ',' expected. 
+
+[2m      L35:  [22mavController, public navParams: NavParams, private auth[41m:[49m AuthService) { this.user = navParams.get('email');}
+
+            ';' expected. 
+
+[2m      L35:  [22mavController, public navParams: NavParams, private auth: AuthService) [41m{[49m this.user = navParams.get('email');}
+
+            Declaration or statement expected. 
+
+[2m      L37:  [22m  [41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m userSelect() {
+[2m      L38:  [22m    //alert(this.userSelection);
+
+            ';' expected. 
+
+[2m      L37:  [22m  public userSelect() [41m{[49m
+[2m      L38:  [22m    //alert(this.userSelection);
+
+            Declaration or statement expected. 
+
+
+            Cannot find name 'page'. 
+
+[2m      L28:  [22m  [41mp[49m[41ma[49m[41mg[49m[41me[49m = "Home";
+[2m      L29:  [22m  userSelection = "";
+
+            Cannot find name 'userSelection'. 
+
+[2m      L28:  [22mpage = "Home";
+[2m      L29:  [22m[41mu[49m[41ms[49m[41me[49m[41mr[49m[41mS[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m = "";
+[2m      L30:  [22muser     = "";
+
+            Cannot find name 'user'. 
+
+[2m      L29:  [22muserSelection = "";
+[2m      L30:  [22m[41mu[49m[41ms[49m[41me[49m[41mr[49m     = "";
+[2m      L31:  [22mtab1Root = HomePage;
+
+            Cannot find name 'tab1Root'. 
+
+[2m      L30:  [22muser     = "";
+[2m      L31:  [22m[41mt[49m[41ma[49m[41mb[49m[41m1[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = HomePage;
+[2m      L32:  [22mtab2Root = AboutPage;
+
+            Cannot find name 'tab2Root'. 
+
+[2m      L31:  [22mtab1Root = HomePage;
+[2m      L32:  [22m[41mt[49m[41ma[49m[41mb[49m[41m2[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = AboutPage;
+[2m      L33:  [22mtab3Root = ContactPage;
+
+            Cannot find name 'tab3Root'. 
+
+[2m      L32:  [22m  tab2Root = AboutPage;
+[2m      L33:  [22m  [41mt[49m[41ma[49m[41mb[49m[41m3[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = ContactPage;
+
+            Cannot find name 'constructor'. 
+
+[2m      L35:  [22m  [41mc[49m[41mo[49m[41mn[49m[41ms[49m[41mt[49m[41mr[49m[41mu[49m[41mc[49m[41mt[49m[41mo[49m[41mr[49m(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { this.
+
+            Cannot find name 'public'. 
+
+[2m      L35:  [22m  constructor([41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { this.
+
+            Cannot find name 'navCtrl'. 
+
+[2m      L35:  [22m  constructor(public [41mn[49m[41ma[49m[41mv[49m[41mC[49m[41mt[49m[41mr[49m[41ml[49m: NavController, public navParams: NavParams, private auth: AuthService) { this.
+
+            Cannot find name 'public'. 
+
+[2m      L35:  [22m  constructor(public navCtrl: NavController, [41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m navParams: NavParams, private auth: AuthService) { this.
+
+            Cannot find name 'navParams'. 
+
+[2m      L35:  [22m  constructor(public navCtrl: NavController, public [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m: NavParams, private auth: AuthService) { this.
+
+            Cannot find name 'private'. 
+
+[2m      L35:  [22mblic navCtrl: NavController, public navParams: NavParams, [41mp[49m[41mr[49m[41mi[49m[41mv[49m[41ma[49m[41mt[49m[41me[49m auth: AuthService) { this.user = navParams
+
+            Cannot find name 'auth'. 
+
+[2m      L35:  [22mrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { this.user = navParams.get('emai
+
+            Cannot find name 'navParams'. 
+
+[2m      L35:  [22mavController, public navParams: NavParams, private auth: AuthService) { this.user = [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m.get('email');}
+
+            Cannot find name 'userSelect'. 
+
+[2m      L37:  [22m  public [41mu[49m[41ms[49m[41me[49m[41mr[49m[41mS[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m() {
+[2m      L38:  [22m    //alert(this.userSelection);
+
+[21:28:05]  build finished in 3.47 s 
+
+[21:28:48]  build started ... 
+[21:28:48]  transpile update started ... 
+[21:28:48]  transpile update finished in 58 ms 
+[21:28:48]  deeplinks update started ... 
+[21:28:48]  deeplinks update finished in 41 ms 
+[21:28:48]  webpack update started ... 
+[21:28:48]  webpack update finished in 485 ms 
+[21:28:49]  build finished in 1.92 s 
+
+[21:40:40]  build started ... 
+[21:40:40]  transpile update started ... 
+[21:40:40]  transpile update finished in 40 ms 
+[21:40:40]  deeplinks update started ... 
+[21:40:40]  deeplinks update finished in 35 ms 
+[21:40:40]  webpack update started ... 
+[21:40:43]  webpack update finished in 3.28 s 
+[21:40:43]  build finished in 3.37 s 
+
+[21:48:00]  build started ... 
+[21:48:00]  transpile update started ... 
+            Unexpected token. A constructor, method, accessor, or property was expected. 
+
+[2m      L23:  [22m  [41mt[49m[41mh[49m[41mi[49m[41ms[49m.selectOptions = {
+[2m      L24:  [22m    title: this.page,
+
+            Declaration or statement expected. 
+
+[2m      L37:  [22m  [41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m userSelect() {
+[2m      L38:  [22m    //alert(this.userSelection);
+
+            ';' expected. 
+
+[2m      L37:  [22m  public userSelect() [41m{[49m
+[2m      L38:  [22m    //alert(this.userSelection);
+
+            Declaration or statement expected. 
+
+
+            Cannot find name 'userSelect'. 
+
+[2m      L37:  [22m  public [41mu[49m[41ms[49m[41me[49m[41mr[49m[41mS[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m() {
+[2m      L38:  [22m    //alert(this.userSelection);
+
+[21:48:02]  build finished in 1.52 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L21:  [22mrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { this.user = navParams.get('emai
+
+[21:49:29]  build started ... 
+[21:49:29]  transpile update started ... 
+[21:49:29]  transpile update finished in 42 ms 
+[21:49:29]  deeplinks update started ... 
+[21:49:29]  deeplinks update finished in 61 ms 
+[21:49:29]  webpack update started ... 
+[21:49:30]  webpack update finished in 465 ms 
+            Property 'selectOptions' does not exist on type 'TabsPage'. 
+
+[2m      L24:  [22m  this.[41ms[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mO[49m[41mp[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m[41ms[49m = {
+[2m      L25:  [22m    title: this.page,
+
+[21:49:31]  build finished in 1.60 s 
+
+[21:53:54]  build started ... 
+[21:53:54]  transpile update started ... 
+            ',' expected. 
+
+[2m      L12:  [22m  [41mt[49m[41mh[49m[41mi[49m[41ms[49m.selectOptions = {
+[2m      L13:  [22m    cssClass: 'remove-cancel',
+
+            ':' expected. 
+
+[2m      L12:  [22m  this[41m.[49mselectOptions = {
+[2m      L13:  [22m    cssClass: 'remove-cancel',
+
+            ',' expected. 
+
+[2m      L24:  [22m    }]
+[2m      L25:  [22m  }[41m;[49m
+
+            Argument of type '{ templateUrl: string; this: { cssClass: string; title: any; buttons: { text: string; 
+            handler: ()...' is not assignable to parameter of type 'Component'. Object literal may only specify known 
+            properties, and 'this' does not exist in type 'Component'. 
+
+[2m      L12:  [22m  [41mt[49m[41mh[49m[41mi[49m[41ms[49m[41m.[49m[41ms[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mO[49m[41mp[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m[41ms[49m[41m [49m[41m=[49m[41m [49m[41m{[49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m
+[2m      L13:  [22m    cssClass: 'remove-cancel',
+
+[21:53:56]  build finished in 1.60 s 
+
+[21:53:56]  build started ... 
+[21:53:56]  transpile started ... 
+            ',' expected. 
+
+      L12:    this.selectOptions = {
+      L13:      cssClass: 'remove-cancel',
+
+            ':' expected. 
+
+      L12:    this.selectOptions = {
+      L13:      cssClass: 'remove-cancel',
+
+            ',' expected. 
+
+      L24:      }]
+      L25:    };
+
+            Argument of type '{ templateUrl: string; this: { cssClass: string; title: any; buttons: { text: string; 
+            handler: ()...' is not assignable to parameter of type 'Component'. Object literal may only specify known 
+            properties, and 'this' does not exist in type 'Component'. 
+
+      L12:    this.selectOptions = {                                                                                                                                                                                                                                                                                                         
+      L13:      cssClass: 'remove-cancel',
+
+[21:53:58]  build finished in 2.72 s 
+
+[21:54:21]  build started ... 
+[21:54:21]  transpile update started ... 
+            ':' expected. 
+
+[2m      L12:  [22m  this[41m.[49mselectOptions = {
+[2m      L13:  [22m    cssClass: 'remove-cancel',
+
+            ',' expected. 
+
+[2m      L24:  [22m    }]
+[2m      L25:  [22m  }[41m;[49m
+
+            Argument of type '{ templateUrl: string; this: { cssClass: string; title: any; buttons: { text: string; 
+            handler: ()...' is not assignable to parameter of type 'Component'. Object literal may only specify known 
+            properties, and 'this' does not exist in type 'Component'. 
+
+[2m      L12:  [22m  [41mt[49m[41mh[49m[41mi[49m[41ms[49m[41m.[49m[41ms[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mO[49m[41mp[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m[41ms[49m[41m [49m[41m=[49m[41m [49m[41m{[49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m[41m [49m
+[2m      L13:  [22m    cssClass: 'remove-cancel',
+
+[21:54:22]  build finished in 1.62 s 
+
+[21:56:19]  build started ... 
+[21:56:19]  transpile update started ... 
+[21:56:19]  transpile update finished in 18 ms 
+[21:56:19]  deeplinks update started ... 
+[21:56:19]  deeplinks update finished in 36 ms 
+[21:56:19]  webpack update started ... 
+            Type '{ cssClass: string; title: string; buttons: { text: string; handler: () => boolean; }[]; }' is not 
+            assignable to type 'string'. 
+
+[2m      L24:  [22m    [41mt[49m[41mh[49m[41mi[49m[41ms[49m[41m.[49m[41ms[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mO[49m[41mp[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m[41ms[49m = {
+[2m      L25:  [22m      cssClass: 'remove-cancel',
+
+[21:56:23]  webpack update finished in 3.36 s 
+[21:56:23]  sass update started ... 
+[21:56:24]  sass update finished in 1.15 s 
+[21:56:24]  build finished in 4.59 s 
+
+[21:56:48]  build started ... 
+[21:56:48]  transpile update started ... 
+[21:56:48]  transpile update finished in 39 ms 
+[21:56:48]  deeplinks update started ... 
+[21:56:48]  deeplinks update finished in 13 ms 
+[21:56:48]  webpack update started ... 
+[21:56:48]  webpack update finished in 262 ms 
+[21:56:50]  build finished in 1.57 s 
+
+[21:58:31]  build started ... 
+[21:58:31]  transpile update started ... 
+[21:58:31]  transpile update finished in 63 ms 
+[21:58:31]  deeplinks update started ... 
+[21:58:32]  deeplinks update finished in 101 ms 
+[21:58:32]  webpack update started ... 
+[21:58:35]  webpack update finished in 3.53 s 
+[21:58:35]  build finished in 3.72 s 
+
+[22:01:32]  build started ... 
+[22:01:32]  transpile update started ... 
+            Unterminated string literal. 
+
+[2m      L32:  [22m//});
+[2m      L33:  [22malert('TEST);[41m [49m
+[2m      L34:  [22mreturn false;
+
+            ',' expected. 
+
+[2m      L33:  [22m  alert('TEST);
+[2m      L34:  [22m  [41mr[49m[41me[49m[41mt[49m[41mu[49m[41mr[49m[41mn[49m false;
+
+[22:01:34]  build finished in 1.63 s 
+
+[22:01:57]  build started ... 
+[22:01:57]  transpile update started ... 
+[22:01:57]  transpile update finished in 47 ms 
+[22:01:57]  deeplinks update started ... 
+[22:01:57]  deeplinks update finished in 99 ms 
+[22:01:57]  webpack update started ... 
+[22:01:57]  webpack update finished in 340 ms 
+[22:01:58]  build finished in 1.40 s 
+
+[22:02:50]  build started ... 
+[22:02:50]  transpile update started ... 
+[22:02:50]  transpile update finished in 36 ms 
+[22:02:50]  deeplinks update started ... 
+[22:02:50]  deeplinks update finished in 24 ms 
+[22:02:50]  webpack update started ... 
+[22:02:54]  webpack update finished in 3.66 s 
+[22:02:54]  build finished in 3.74 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L21:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L22:  [22m    this.user = navParams.get('email');
+
+[22:17:56]  build started ... 
+[22:17:56]  template update started ... 
+[22:17:56]  template update finished in 4 ms 
+[22:17:56]  build finished in 5 ms 
+
+[22:20:38]  build started ... 
+[22:20:38]  transpile update started ... 
+[22:20:38]  transpile update finished in 19 ms 
+[22:20:38]  deeplinks update started ... 
+[22:20:38]  deeplinks update finished in 13 ms 
+[22:20:38]  webpack update started ... 
+[22:20:38]  webpack update finished in 340 ms 
+[22:20:39]  build finished in 1.66 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L21:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L22:  [22m    this.user = navParams.get('email');
+
+[22:21:32]  build started ... 
+[22:21:32]  transpile update started ... 
+[22:21:33]  transpile update finished in 22 ms 
+[22:21:33]  deeplinks update started ... 
+[22:21:33]  deeplinks update finished in 17 ms 
+[22:21:33]  webpack update started ... 
+            Block-scoped variable 'page' used before its declaration. 
+
+[2m      L15:  [22mcssClass: 'remove-cancel',
+[2m      L16:  [22mtitle: this.[41mp[49m[41ma[49m[41mg[49m[41me[49m,
+[2m      L17:  [22mbuttons: [{
+
+[22:21:36]  webpack update finished in 3.53 s 
+[22:21:36]  build finished in 3.58 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[22:21:49]  build started ... 
+[22:21:49]  transpile update started ... 
+[22:21:49]  transpile update finished in 23 ms 
+[22:21:49]  deeplinks update started ... 
+[22:21:49]  deeplinks update finished in 10 ms 
+[22:21:49]  webpack update started ... 
+[22:21:49]  webpack update finished in 217 ms 
+[22:21:50]  build finished in 1.35 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[22:22:29]  build started ... 
+[22:22:29]  transpile update started ... 
+[22:22:29]  transpile update finished in 32 ms 
+[22:22:29]  deeplinks update started ... 
+[22:22:29]  deeplinks update finished in 11 ms 
+[22:22:29]  webpack update started ... 
+[22:22:33]  webpack update finished in 3.28 s 
+[22:22:33]  build finished in 3.34 s 
+
+[22:28:09]  build started ... 
+[22:28:09]  transpile update started ... 
+[22:28:09]  transpile update finished in 36 ms 
+[22:28:09]  deeplinks update started ... 
+[22:28:09]  deeplinks update finished in 38 ms 
+[22:28:09]  webpack update started ... 
+[22:28:10]  webpack update finished in 287 ms 
+[22:28:11]  build finished in 1.99 s 
+
+            All imports are unused. 
+
+[2m       L8:  [22m[41mi[49m[41mm[49m[41mp[49m[41mo[49m[41mr[49m[41mt[49m { LoginPage } from '../pages/login/login';
+[2m       L9:  [22mimport { AboutPage } from '../pages/about/about';
+
+            All imports are unused. 
+
+[2m       L8:  [22m[41mi[49m[41mm[49m[41mp[49m[41mo[49m[41mr[49m[41mt[49m { LoginPage } from '../pages/login/login';
+[2m       L9:  [22mimport { AboutPage } from '../pages/about/about';
+
+[22:29:22]  build started ... 
+[22:29:22]  transpile update started ... 
+[22:29:22]  transpile update finished in 21 ms 
+[22:29:22]  deeplinks update started ... 
+[22:29:22]  deeplinks update finished in 43 ms 
+[22:29:22]  webpack update started ... 
+[22:29:26]  webpack update finished in 3.52 s 
+[22:29:26]  build finished in 3.60 s 
+
+[22:35:57]  build started ... 
+[22:35:57]  transpile update started ... 
+[22:35:57]  transpile update finished in 25 ms 
+[22:35:57]  deeplinks update started ... 
+[22:35:57]  deeplinks update finished in 33 ms 
+[22:35:57]  webpack update started ... 
+[22:35:57]  webpack update finished in 316 ms 
+[22:35:59]  build finished in 1.98 s 
+
+[22:36:47]  build started ... 
+[22:36:47]  transpile update started ... 
+[22:36:47]  transpile update finished in 49 ms 
+[22:36:47]  deeplinks update started ... 
+[22:36:47]  deeplinks update finished in 19 ms 
+[22:36:47]  webpack update started ... 
+[22:36:51]  webpack update finished in 3.47 s 
+[22:36:51]  build finished in 3.55 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[22:55:15]  build started ... 
+[22:55:15]  transpile update started ... 
+[22:55:15]  transpile update finished in 27 ms 
+[22:55:15]  deeplinks update started ... 
+[22:55:15]  deeplinks update finished in 14 ms 
+[22:55:15]  webpack update started ... 
+[22:55:15]  webpack update finished in 350 ms 
+[22:55:16]  build finished in 1.62 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[22:57:54]  build started ... 
+[22:57:54]  transpile update started ... 
+[22:57:54]  transpile update finished in 33 ms 
+[22:57:54]  deeplinks update started ... 
+[22:57:54]  deeplinks update finished in 34 ms 
+[22:57:54]  webpack update started ... 
+[22:57:57]  webpack update finished in 3.46 s 
+[22:57:57]  build finished in 3.55 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[22:58:47]  build started ... 
+[22:58:47]  sass update started ... 
+[22:58:49]  sass update finished in 1.24 s 
+[22:58:49]  build finished in 1.24 s 
+
+[22:59:01]  build started ... 
+[22:59:01]  transpile update started ... 
+[22:59:01]  transpile update finished in 21 ms 
+[22:59:01]  deeplinks update started ... 
+[22:59:01]  deeplinks update finished in 25 ms 
+[22:59:01]  webpack update started ... 
+[22:59:01]  webpack update finished in 281 ms 
+[22:59:03]  build finished in 1.60 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[23:03:03]  build started ... 
+[23:03:03]  transpile update started ... 
+            Parameter declaration expected. 
+
+[2m      L23:  [22m//          });
+[2m      L24:  [22m          alert([41m'[49m[41mT[49m[41mE[49m[41mS[49m[41mT[49m[41m'[49m);
+[2m      L25:  [22m          return false;
+
+            ':' expected. 
+
+[2m      L23:  [22m//          });
+[2m      L24:  [22m          alert('TEST'[41m)[49m;
+[2m      L25:  [22m          return false;
+
+            Property assignment expected. 
+
+[2m      L23:  [22m//          });
+[2m      L24:  [22m          alert('TEST')[41m;[49m
+[2m      L25:  [22m          return false;
+
+            ':' expected. 
+
+[2m      L24:  [22m  alert('TEST');
+[2m      L25:  [22m  return [41mf[49m[41ma[49m[41ml[49m[41ms[49m[41me[49m;
+
+            ',' expected. 
+
+[2m      L24:  [22m  alert('TEST');
+[2m      L25:  [22m  return false[41m;[49m
+
+            ',' expected. 
+
+[2m      L27:  [22m    [41m}[49m]
+
+            ';' expected. 
+
+[2m      L27:  [22m    }[41m][49m
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public [41mn[49m[41ma[49m[41mv[49m[41mC[49m[41mt[49m[41mr[49m[41ml[49m: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl[41m:[49m NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams[41m:[49m NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private auth[41m:[49m AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ';' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) [41m{[49m 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Declaration or statement expected. 
+
+
+            Cannot find name 'userSelection'. 
+
+[2m      L30:  [22m  [41mu[49m[41ms[49m[41me[49m[41mr[49m[41mS[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m = "";
+[2m      L31:  [22m  user     = "";
+
+            Cannot find name 'user'. 
+
+[2m      L30:  [22muserSelection = "";
+[2m      L31:  [22m[41mu[49m[41ms[49m[41me[49m[41mr[49m     = "";
+[2m      L32:  [22mtab1Root = HomePage;
+
+            Cannot find name 'tab1Root'. 
+
+[2m      L31:  [22muser     = "";
+[2m      L32:  [22m[41mt[49m[41ma[49m[41mb[49m[41m1[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = HomePage;
+[2m      L33:  [22mtab2Root = AboutPage;
+
+            Cannot find name 'tab2Root'. 
+
+[2m      L32:  [22mtab1Root = HomePage;
+[2m      L33:  [22m[41mt[49m[41ma[49m[41mb[49m[41m2[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = AboutPage;
+[2m      L34:  [22mtab3Root = ContactPage;
+
+            Cannot find name 'tab3Root'. 
+
+[2m      L33:  [22m  tab2Root = AboutPage;
+[2m      L34:  [22m  [41mt[49m[41ma[49m[41mb[49m[41m3[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = ContactPage;
+
+            Cannot find name 'constructor'. 
+
+[2m      L36:  [22m  [41mc[49m[41mo[49m[41mn[49m[41ms[49m[41mt[49m[41mr[49m[41mu[49m[41mc[49m[41mt[49m[41mo[49m[41mr[49m(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'public'. 
+
+[2m      L36:  [22m  constructor([41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'navCtrl'. 
+
+[2m      L36:  [22m  constructor(public [41mn[49m[41ma[49m[41mv[49m[41mC[49m[41mt[49m[41mr[49m[41ml[49m: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'public'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, [41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'navParams'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'private'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, [41mp[49m[41mr[49m[41mi[49m[41mv[49m[41ma[49m[41mt[49m[41me[49m auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'auth'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'navParams'. 
+
+[2m      L36:  [22mconstructor(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m  this.user = [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m.get('email');
+
+[23:03:05]  build finished in 1.57 s 
+
+[23:03:22]  build started ... 
+[23:03:22]  transpile update started ... 
+            Parameter declaration expected. 
+
+[2m      L23:  [22m//          });
+[2m      L24:  [22m          alert([41m'[49m[41mT[49m[41mE[49m[41mS[49m[41mT[49m[41m'[49m);
+[2m      L25:  [22m          return false;
+
+            ':' expected. 
+
+[2m      L23:  [22m//          });
+[2m      L24:  [22m          alert('TEST'[41m)[49m;
+[2m      L25:  [22m          return false;
+
+            Property assignment expected. 
+
+[2m      L23:  [22m//          });
+[2m      L24:  [22m          alert('TEST')[41m;[49m
+[2m      L25:  [22m          return false;
+
+            ':' expected. 
+
+[2m      L24:  [22m  alert('TEST');
+[2m      L25:  [22m  return [41mf[49m[41ma[49m[41ml[49m[41ms[49m[41me[49m;
+
+            ',' expected. 
+
+[2m      L24:  [22m  alert('TEST');
+[2m      L25:  [22m  return false[41m;[49m
+
+            ',' expected. 
+
+[2m      L27:  [22m    [41m}[49m]
+
+            ';' expected. 
+
+[2m      L27:  [22m    }[41m][49m
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public [41mn[49m[41ma[49m[41mv[49m[41mC[49m[41mt[49m[41mr[49m[41ml[49m: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl[41m:[49m NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams[41m:[49m NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ',' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private auth[41m:[49m AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            ';' expected. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) [41m{[49m 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Declaration or statement expected. 
+
+
+            Cannot find name 'userSelection'. 
+
+[2m      L30:  [22m  [41mu[49m[41ms[49m[41me[49m[41mr[49m[41mS[49m[41me[49m[41ml[49m[41me[49m[41mc[49m[41mt[49m[41mi[49m[41mo[49m[41mn[49m = "";
+[2m      L31:  [22m  user     = "";
+
+            Cannot find name 'user'. 
+
+[2m      L30:  [22muserSelection = "";
+[2m      L31:  [22m[41mu[49m[41ms[49m[41me[49m[41mr[49m     = "";
+[2m      L32:  [22mtab1Root = HomePage;
+
+            Cannot find name 'tab1Root'. 
+
+[2m      L31:  [22muser     = "";
+[2m      L32:  [22m[41mt[49m[41ma[49m[41mb[49m[41m1[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = HomePage;
+[2m      L33:  [22mtab2Root = AboutPage;
+
+            Cannot find name 'tab2Root'. 
+
+[2m      L32:  [22mtab1Root = HomePage;
+[2m      L33:  [22m[41mt[49m[41ma[49m[41mb[49m[41m2[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = AboutPage;
+[2m      L34:  [22mtab3Root = ContactPage;
+
+            Cannot find name 'tab3Root'. 
+
+[2m      L33:  [22m  tab2Root = AboutPage;
+[2m      L34:  [22m  [41mt[49m[41ma[49m[41mb[49m[41m3[49m[41mR[49m[41mo[49m[41mo[49m[41mt[49m = ContactPage;
+
+            Cannot find name 'constructor'. 
+
+[2m      L36:  [22m  [41mc[49m[41mo[49m[41mn[49m[41ms[49m[41mt[49m[41mr[49m[41mu[49m[41mc[49m[41mt[49m[41mo[49m[41mr[49m(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'public'. 
+
+[2m      L36:  [22m  constructor([41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'navCtrl'. 
+
+[2m      L36:  [22m  constructor(public [41mn[49m[41ma[49m[41mv[49m[41mC[49m[41mt[49m[41mr[49m[41ml[49m: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'public'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, [41mp[49m[41mu[49m[41mb[49m[41ml[49m[41mi[49m[41mc[49m navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'navParams'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'private'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, [41mp[49m[41mr[49m[41mi[49m[41mv[49m[41ma[49m[41mt[49m[41me[49m auth: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'auth'. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+            Cannot find name 'navParams'. 
+
+[2m      L36:  [22mconstructor(public navCtrl: NavController, public navParams: NavParams, private auth: AuthService) { 
+[2m      L37:  [22m  this.user = [41mn[49m[41ma[49m[41mv[49m[41mP[49m[41ma[49m[41mr[49m[41ma[49m[41mm[49m[41ms[49m.get('email');
+
+[23:03:23]  build finished in 1.37 s 
+
+[23:04:06]  build started ... 
+[23:04:06]  transpile update started ... 
+[23:04:06]  transpile update finished in 44 ms 
+[23:04:06]  deeplinks update started ... 
+[23:04:06]  deeplinks update finished in 30 ms 
+[23:04:06]  webpack update started ... 
+[23:04:10]  webpack update finished in 4.00 s 
+[23:04:10]  build finished in 4.09 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L36:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L37:  [22m    this.user = navParams.get('email');
+
+[08:15:16]  build started ... 
+[08:15:16]  transpile update started ... 
+[08:15:16]  transpile update finished in 43 ms 
+[08:15:16]  deeplinks update started ... 
+[08:15:16]  deeplinks update finished in 16 ms 
+[08:15:16]  webpack update started ... 
+[08:15:16]  webpack update finished in 326 ms 
+[08:15:18]  build finished in 1.72 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L37:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L38:  [22m    this.user = navParams.get('email');
+
+[08:18:40]  build started ... 
+[08:18:40]  template update started ... 
+[08:18:40]  template update finished in 3 ms 
+[08:18:40]  build finished in 4 ms 
+
+[08:20:27]  build started ... 
+[08:20:27]  transpile update started ... 
+[08:20:27]  transpile update finished in 29 ms 
+[08:20:27]  deeplinks update started ... 
+[08:20:27]  deeplinks update finished in 15 ms 
+[08:20:27]  webpack update started ... 
+[08:20:31]  webpack update finished in 3.57 s 
+[08:20:31]  build finished in 3.63 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L37:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L38:  [22m    this.user = navParams.get('email');
+
+[08:21:20]  build started ... 
+[08:21:20]  template update started ... 
+[08:21:20]  template update finished in 1 ms 
+[08:21:20]  build finished in 3 ms 
+
+[08:22:59]  build started ... 
+[08:22:59]  transpile update started ... 
+[08:22:59]  transpile update finished in 31 ms 
+[08:22:59]  deeplinks update started ... 
+[08:22:59]  deeplinks update finished in 7 ms 
+[08:22:59]  webpack update started ... 
+[08:22:59]  webpack update finished in 314 ms 
+[08:23:01]  build finished in 1.59 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L38:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L39:  [22m    this.user = navParams.get('email');
+
+[08:42:18]  build started ... 
+[08:42:18]  transpile update started ... 
+[08:42:18]  transpile update finished in 21 ms 
+[08:42:18]  deeplinks update started ... 
+[08:42:18]  deeplinks update finished in 20 ms 
+[08:42:18]  webpack update started ... 
+[08:42:22]  webpack update finished in 3.59 s 
+[08:42:22]  build finished in 3.65 s 
+
+            Property 'auth' is declared but never used. 
+
+[2m      L38:  [22m  constructor(public navCtrl: NavController, public navParams: NavParams, private [41ma[49m[41mu[49m[41mt[49m[41mh[49m: AuthService) { 
+[2m      L39:  [22m    this.user = navParams.get('email');
+
+[08:43:20]  build started ... 
+[08:43:20]  template update started ... 
+[08:43:20]  template update finished in 2 ms 
+[08:43:20]  build finished in 4 ms 
+
+[08:47:52]  build started ... 
+[08:47:52]  transpile update started ... 
+[08:47:52]  transpile update finished in 32 ms 
+[08:47:52]  deeplinks update started ... 
+[08:47:52]  deeplinks update finished in 8 ms 
+[08:47:52]  webpack update started ... 
+[08:47:53]  webpack update finished in 299 ms 
+[08:47:54]  build finished in 1.56 s 
+
+[08:48:44]  build started ... 
+[08:48:44]  transpile update started ... 
+[08:48:44]  transpile update finished in 27 ms 
+[08:48:44]  deeplinks update started ... 
+[08:48:44]  deeplinks update finished in 13 ms 
+[08:48:44]  webpack update started ... 
+[08:48:48]  webpack update finished in 3.87 s 
+[08:48:48]  build finished in 3.92 s 
+
+[08:50:04]  build started ... 
+[08:50:04]  template update started ... 
+[08:50:04]  template update finished in less than 1 ms 
+[08:50:04]  build finished in 2 ms 
+
+[09:10:20]  build started ... 
+[09:10:20]  template update started ... 
+[09:10:20]  template update finished in 1 ms 
+[09:10:20]  build finished in 4 ms 
+
+[09:11:10]  build started ... 
+[09:11:10]  template update started ... 
+[09:11:10]  template update finished in 2 ms 
+[09:11:10]  build finished in 4 ms 
+
+[09:12:00]  build started ... 
+[09:12:00]  template update started ... 
+[09:12:00]  template update finished in 2 ms 
+[09:12:00]  build finished in 3 ms 
+
+[09:13:45]  build started ... 
+[09:13:45]  transpile update started ... 
+[09:13:45]  transpile update finished in 31 ms 
+[09:13:45]  deeplinks update started ... 
+[09:13:45]  deeplinks update finished in 18 ms 
+[09:13:45]  webpack update started ... 
+[09:13:46]  webpack update finished in 480 ms 
+[09:13:47]  build finished in 1.71 s 
+
+[09:15:40]  build started ... 
+[09:15:41]  template update started ... 
+[09:15:41]  template update finished in 9 ms 
+[09:15:41]  build finished in 10 ms 
+
+[09:21:42]  build started ... 
+[09:21:42]  template update started ... 
+[09:21:42]  template update finished in 2 ms 
+[09:21:42]  build finished in 6 ms 
+
+[09:23:48]  build started ... 
+[09:23:48]  template update started ... 
+[09:23:48]  template update finished in 2 ms 
+[09:23:48]  build finished in 2 ms 
+
+[09:24:22]  build started ... 
+[09:24:22]  template update started ... 
+[09:24:22]  template update finished in 1 ms 
+[09:24:22]  build finished in 3 ms 
+
+[09:29:11]  build started ... 
+[09:29:11]  template update started ... 
+[09:29:11]  template update finished in 1 ms 
+[09:29:11]  build finished in 3 ms 
+
+[09:57:24]  build started ... 
+[09:57:24]  template update started ... 
+[09:57:24]  template update finished in 1 ms 
+[09:57:24]  build finished in 3 ms 
+
+[09:59:41]  build started ... 
+[09:59:41]  transpile update started ... 
+[09:59:41]  transpile update finished in 31 ms 
+[09:59:41]  deeplinks update started ... 
+[09:59:41]  deeplinks update finished in 19 ms 
+[09:59:41]  webpack update started ... 
+[09:59:45]  webpack update finished in 3.61 s 
+[09:59:45]  build finished in 3.67 s 
+
+[10:01:24]  build started ... 
+[10:01:24]  transpile update started ... 
+[10:01:24]  transpile update finished in 36 ms 
+[10:01:24]  deeplinks update started ... 
+[10:01:24]  deeplinks update finished in 17 ms 
+[10:01:24]  webpack update started ... 
+[10:01:24]  webpack update finished in 318 ms 
+[10:01:25]  build finished in 1.61 s 
+
+[10:08:24]  build started ... 
+[10:08:24]  template update started ... 
+[10:08:24]  template update finished in 1 ms 
+[10:08:24]  build finished in 3 ms 
+
+[10:10:39]  build started ... 
+[10:10:39]  template update started ... 
+[10:10:39]  template update finished in 3 ms 
+[10:10:39]  build finished in 4 ms 
+
+[10:11:13]  build started ... 
+[10:11:13]  template update started ... 
+[10:11:13]  template update finished in 1 ms 
+[10:11:13]  build finished in 2 ms 
+
+[10:12:37]  build started ... 
+[10:12:37]  transpile update started ... 
+[10:12:37]  transpile update finished in 30 ms 
+[10:12:37]  deeplinks update started ... 
+[10:12:37]  deeplinks update finished in 21 ms 
+[10:12:37]  webpack update started ... 
+[10:12:41]  webpack update finished in 3.86 s 
+[10:12:41]  build finished in 3.93 s 
+
+[10:14:09]  build started ... 
+[10:14:09]  transpile update started ... 
+[10:14:09]  transpile update finished in 29 ms 
+[10:14:09]  deeplinks update started ... 
+[10:14:09]  deeplinks update finished in 12 ms 
+[10:14:09]  webpack update started ... 
+[10:14:09]  webpack update finished in 316 ms 
+[10:14:10]  build finished in 1.59 s 
+
+[10:15:28]  build started ... 
+[10:15:28]  template update started ... 
+[10:15:28]  template update finished in 5 ms 
+[10:15:28]  build finished in 7 ms 
+
+[10:16:39]  build started ... 
+[10:16:39]  transpile update started ... 
+[10:16:39]  transpile update finished in 38 ms 
+[10:16:39]  deeplinks update started ... 
+[10:16:39]  deeplinks update finished in 20 ms 
+[10:16:39]  webpack update started ... 
+[10:16:42]  webpack update finished in 3.52 s 
+[10:16:42]  build finished in 3.60 s 
+
